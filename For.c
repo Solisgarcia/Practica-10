@@ -10,7 +10,7 @@ int main ()
   {
     for(j = 0; j < 3; j ++)
     {
-       print("%d, arr[i][j]);
+       print("%d", arr[i][j]);
     }
     printf("\n");
   }
